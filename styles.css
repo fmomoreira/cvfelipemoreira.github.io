@@ -62,6 +62,7 @@ p {
 }
 .sidebar-wrapper a {
   color: #fff;
+  font-size:12px;
 }
 .sidebar-wrapper .profile-container {
   padding: 30px;
